@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meiko Qu</h1>
 <h3 align="center">A professional with a unique blend of expertise in mathematics, computer science, and Finance.📚</h3>
 
-- 📫 How to reach me **meiko.qu@gmail.com**
+- 📫 How to reach me **meiko.qu@gmail.com** or **fqu32@gatech.edu"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
