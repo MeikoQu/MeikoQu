@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meiko Qu</h1>
-- 📫 How to reach me **meiko.qu@gmail.com**
+<h3 align="center">A versatile professional with a unique blend of expertise in mathematics, computer science, and Finance.📚</h3>
+
+- 📫 **meiko.qu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
